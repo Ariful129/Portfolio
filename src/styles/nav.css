@@ -1,0 +1,15 @@
+.sticky{
+    position: fixed;
+    top:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    width: 1600px;
+    margin: 0 auto;
+}
+.normalnav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
